@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+    width:100%;
+}
+.register{
+    text-align: center;
+}
+.register>div{
+    margin:20px;
+    text-align: center;
+}
