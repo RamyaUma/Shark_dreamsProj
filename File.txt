@@ -1,1 +1,4 @@
-This txt file
+Please run the below commands and then start the application
+
+Run npm install before starting the application.
+You will get the required little project once you start the application as per your requirement.
